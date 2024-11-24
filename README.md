@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @deomranay
 - 👀 I’m keen on adopting the Web3
-- 🌱 I’m currently mastering full-stack engineering and [Laravel](https://laracasts.com/referral/deomranay)
+- 🌱 I’m currently mastering full-stack engineering and [Laravel](https://bit.ly/Lavavel)
 - 💞️ I’m looking to collaborate on an open-source project
 - 📫 You can reach me through this [email](email.nobody@icloud.com)
 - 😄 He/him
-- ⚡ It's more fun in [Laracasts](https://laracasts.com/referral/deomranay)
+- ⚡ It's more fun in [Laracasts](https://bit.ly/Lavavel)
 
 <!---
 deomranay/deomranay is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
